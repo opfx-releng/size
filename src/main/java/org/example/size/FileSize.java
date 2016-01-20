@@ -24,6 +24,7 @@ import java.io.File;
 
 public final class FileSize {
   static {
+	  //some change
     Version.register("size");
   }
 
